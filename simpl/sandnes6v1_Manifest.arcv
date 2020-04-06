@@ -1,0 +1,12 @@
+[BEGIN]
+  ObjTp=FSgntr
+  Sgntr=ArchiveManifest
+  RelVrs=4.11.06
+  IsProgram=1
+  TopLevelProgram=sandnes6v1.smw
+[END]
+[BEGIN]
+  ObjTp=ArchiveItem
+  File=sandnes6v1.smw
+  Scope=1
+[END]
